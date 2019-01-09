@@ -1,2 +1,0 @@
-# My Aws Personnal Key
-My_AWS_Key="23478207027842073230762374023"
